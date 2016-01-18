@@ -1,0 +1,509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"weetbix",
+				"weetbix	Weetbix Filter Column"
+			],
+			[
+				"weet",
+				"weetbix	Weetbix rename column"
+			],
+			[
+				"wee",
+				"weetbix	Weetbix rename column"
+			],
+			[
+				"replace",
+				"Replace_nulls_with_"
+			],
+			[
+				"a",
+				"abbr"
+			],
+			[
+				"def",
+				"defmm	def method_missing .. end"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "pakcage remove",
+		"selected_items":
+		[
+			[
+				"pakcage remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: m"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/KilleenJ/weetbix/projects/apba_sales_rebate_report/config/params.yaml",
+		"/C/Users/KilleenJ/weetbix/scripts/cli.bash",
+		"/C/Users/KilleenJ/weetbix/projects/README.md",
+		"/C/Users/KilleenJ/weetbix/projects/apba_sales_rebate_report/REAMDE.md",
+		"/C/Users/KilleenJ/AppData/Roaming/Sublime Text 3/Packages/User/weetbix-rename-column.sublime-snippet",
+		"/C/Users/KilleenJ/AppData/Roaming/Sublime Text 3/Packages/User/weetbix-replace.sublime-snippet",
+		"/C/Users/KilleenJ/.bashrc",
+		"/C/Users/KilleenJ/weetbix/projects/apba_sales_rebate_report/queries/models/Customer/Customer.m",
+		"/C/Users/KilleenJ/weetbix/projects/apba_sales_rebate_report/config/application.yaml",
+		"/C/Users/KilleenJ/AppData/Roaming/Sublime Text 3/Packages/User/m.sublime-completions",
+		"/C/Users/KilleenJ/weetbix/projects/apba_sales_rebate_report/eval_Customer.m",
+		"/C/Users/KilleenJ/weetbix/projects/apba_sales_rebate_report/Customer.m",
+		"/C/Users/KilleenJ/weetbix/apba/config/application.yaml",
+		"/C/Users/KilleenJ/weetbix/sheetrock_sales_report/config/application.yaml",
+		"/C/Users/KilleenJ/weetbix/qld_sheetrock_prices/SR_Analysis.m",
+		"/C/Users/KilleenJ/weetbix/qld_sheetrock_prices/10SB_Analysis.m",
+		"/C/Users/KilleenJ/.ssh/config",
+		"/c/users/killeenj/appdata/local/temp/rsub-k97yhw/README.md",
+		"/c/users/killeenj/appdata/local/temp/rsub-26494q/Gemfile",
+		"/c/users/killeenj/appdata/local/temp/rsub-6g24e6/index.html",
+		"/c/users/killeenj/appdata/local/temp/rsub-6y4va0/index.html",
+		"/c/users/killeenj/appdata/local/temp/rsub-von7do/contact-me.html",
+		"/c/users/killeenj/appdata/local/temp/rsub-i23gq1/2016-01-15-hello-world.markdown",
+		"/c/users/killeenj/appdata/local/temp/rsub-7cj_co/.gitignore",
+		"/c/users/killeenj/appdata/local/temp/rsub-nh59xb/.gitgnore",
+		"/c/users/killeenj/appdata/local/temp/rsub-d9l91a/Gemfile",
+		"/c/users/killeenj/appdata/local/temp/rsub-5udqjj/contact-me.html",
+		"/c/users/killeenj/appdata/local/temp/rsub-o6f55j/Gemfile",
+		"/C/Users/KilleenJ/weetbix/sheetrock_sales_report/config/params.yaml",
+		"/C/Users/KilleenJ/weetbix/sheetrock_sales_report/queries/models/Customer/Customer.m",
+		"/C/Users/KilleenJ/weetbix/sheetrock_sales_report/queries/models/Customer/eval_Customer.m",
+		"/C/Users/KilleenJ/weetbix/sheetrock_sales_report/queries/models/Date/eval_Date.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/Projects/xlGetVBA/hello_world.bas",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/README.md",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/.gitignore",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/scripts/bash.shortcuts",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/docs/gitignore",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/sheetrock_sales_report/queries/application/eval_project_name.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/sheetrock_sales_report/queries/application/project_name.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/sheetrock_sales_report/queries/models/Sales/eval_Sales.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/sheetrock_sales_report/queries/models/Region/Region.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/sheetrock_sales_report/queries/models/Region/eval_Region.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/sheetrock_sales_report/queries/models/Product/eval_Product.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/sheetrock_sales_report/queries/models/Date/eval_Date.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/sheetrock_sales_report/queries/models/Customer/eval_Customer.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/weetbix/gitmodules",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/Queries/models/Product/Product.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/Queries/models/Sales/Sales.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/Queries/models/Region/Region.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/Queries/models/Date/Date.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/scripts/bash.shortcuts",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/Queries/models/Customer/Customer.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/PowerBI.wiki/Home.md",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/scripts/test_shell.sh",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/config/params.yaml.template",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/config/application.yaml.template",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/config/params.yaml",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/config/application.yaml",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/README.md",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/queries/application/eval_project_name.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/Queries/Donkey.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/scripts/test.sh",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/Queries/Cat.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/scripts/outputfile.txt",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/sheetrock_sales_report/Queries/project_name.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/.gitignore",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/PowerBI/env.bas",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/Projects/Customer Analysis Report.xlsm/PowerQuery/Customer.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/Projects/xlGetVBA/README.md",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/My Documents/Desktop/M.m",
+		"/C/Users/KilleenJ/AppData/Roaming/Sublime Text 3/Packages/User/M.YAML-tmLanguage",
+		"/C/Users/KilleenJ/git_completion.bash",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/MSBI/M/Warehouse/WarehouseCustomerPriceList.m",
+		"/C/Users/KilleenJ/OneDrive - USG Boral/Zenforce/Views/README.md",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/VBA/Projects/Customer Price Details.xlsm/PowerQuery/CustomerTypeAnalysis.[010].m",
+		"/C/Users/KilleenJ/OneDrive - USG Boral/Zenforce/Projects/201512 QLD Sheetrock Price Implementation/151211102622_PriceListPriceGroupStartDate_upload.txt",
+		"/N/QLD/028 National Sales/Pricing Administration/Sheetrock Brand Pricing/201512 QLD Sheetrock Price Implementation/Qldgrps141215.txt",
+		"/C/Users/KilleenJ/OneDrive - USG Boral/Zenforce/Projects/201512 QLD Sheetrock Price Implementation/151211094651_PriceListPriceGroupStartDate_upload.txt",
+		"/C/Users/KilleenJ/app/xlcasts/.otto/compiled/app/dev/Vagrantfile",
+		"/C/Users/KilleenJ/app/xlcasts/Appfile",
+		"/C/Users/KilleenJ/OneDrive - USG Boral/Zenforce/Projects/201512 QLD Sheetrock Price Implementation/151210003009_PriceListPriceGroupStartDate_upload.txt",
+		"/C/Users/KilleenJ/app/xlcasts/config/database.yml",
+		"/C/Users/KilleenJ/OneDrive - USG Boral/Zenforce/Projects/201512 QLD Sheetrock Price Implementation/151210001005_PriceListPriceGroupStartDate_upload.txt",
+		"/C/Users/KilleenJ/app/xlcasts/Gemfile",
+		"/C/Users/KilleenJ/OneDrive - USG Boral/Zenforce/201512 QLD Sheetrock Price Implementation/VBA/Modules/Price.bas",
+		"/C/Users/KilleenJ/app/xlcasts/AppFile",
+		"/C/Users/KilleenJ/app/xlcasts/.otto/appfile/Appfile.compiled",
+		"/C/Users/KilleenJ/ShareFile/My Files ",
+		"/CUsersKilleenJShareFileMy",
+		"/C/Users/KilleenJ/Files",
+		"/C/Users/KilleenJ/app/mk8/Files",
+		"/C/Users/KilleenJ/.ssh/id_rsa.pub",
+		"/C/Users/KilleenJ/.bashr",
+		"/C/Users/KilleenJ/.gitconfig",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/dbo/Customer.m",
+		"/C/Users/KilleenJ/.bash_profile",
+		"/C/Users/KilleenJ/.bash_history",
+		"/C/Users/KilleenJ/OneDrive - USG Boral/Zenforce/2016 Price Increase/Hand Delivered Letters/MailMergeAutomation.vba",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/Sales Reports/APBA/data.csv",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/My Documents/My Data Sources/AUEDB005.USGBORAL.COM Sales.odc",
+		"/N/QLD/028 National Sales/Pricing Administration/PriceOverrideReport/01112015-18112015_PriceOverrides-Lines.txt",
+		"/N/QLD/028 National Sales/Pricing Administration/PriceOverrideReport/01112015-18112015_PriceOverrides.txt",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/My Documents/Downloads/2a6c16c5-d7e1-4f54-b713-f9b0028c3104",
+		"/N/QLD/028 National Sales/Pricing Administration/AuditReport/201511_AuditReport.csv",
+		"/N/QLD/028 National Sales/Pricing Administration/AuditReport/MK8AuditReport.txt",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/ReturnHeaders.text",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/ContractLine.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/CustomerType.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/DB/schema/tables/tables_sales_BASE.txt",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/Contract.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/PricesByPriceListPriceGroup.sql",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/PricesByPriceListPriceGroup.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/Customer.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/PriceOverrides.txt",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/PriceGroup.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/AuditReports/run.rb",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/AuditReports/run.rb",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/AuditReports/tdsls402.txt",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/ContractLine.sql",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/Area.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/PB Sales Table create scripts.sql",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/Contract.sql",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/Functions/Contract.sql",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/Functions/Contract.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/Product.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/PriceList.m",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/Product.sql",
+		"/C/Users/KilleenJ/ShareFile/My Files & Folders/ZFDB/bi_tables/SQL Scripts/Customer.sql"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 126.0,
+		"where_history":
+		[
+			"<current file>",
+			"<current file>,<open files>,C:\\Users\\KilleenJ\\ShareFile\\My Files & Folders\\VBA\\weetbix",
+			"<current file>,<open files>",
+			"<current file>",
+			"",
+			"<in selection>",
+			"<current file>",
+			"<in selection>",
+			"<selection>",
+			"<selected text>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"first_",
+			"/weetbix/",
+			"weetbix\\",
+			"$HOME/weetbix/projects/\"$3\"/config/",
+			"weetbix/",
+			"\"$3\"",
+			"config_file",
+			"4",
+			"\"$4\".m",
+			"Added ",
+			"NoDiscount",
+			"AddDiscount",
+			"wbix",
+			"weetbix",
+			"wbix",
+			"Added ",
+			"StayInBin.[075]",
+			"NoDisc",
+			"\"NoDiscounts",
+			"\"StayInBin?\"",
+			"AddDisc",
+			"DiscountAmount",
+			"DiscountAmount.[075]",
+			" or ",
+			"or",
+			"AddDiscount",
+			"Merged Customer",
+			"Customer",
+			"bash.shortcuts",
+			"ShareFile/My\\ Files\\ \\&\\ Folders/VBA",
+			"ShareFile\\My Files & Folders\\VBA\\",
+			"eet",
+			"\\ShareFile\\My Files & Folders\\VBA",
+			"bi_new_query",
+			"weetbix",
+			"bi_new_query",
+			"PowerBI",
+			"PowerBi",
+			"PowerBI",
+			"\"$2\"",
+			"\"$1\"",
+			"queries",
+			"eval_",
+			"\"$2\".m",
+			"$2",
+			"Appfile",
+			"\\",
+			"!\"",
+			"\\",
+			"cloud_service",
+			"path_cloud_service",
+			"//",
+			"#\"",
+			"\",",
+			"\", ",
+			"IsCurrent",
+			"isc",
+			"IsCurrent",
+			" // ",
+			"ssraw",
+			"076",
+			"025",
+			"075",
+			"010",
+			"\",",
+			"010",
+			"CurrentNetPrice.[075]",
+			"025",
+			"076",
+			"10SC",
+			"10SB",
+			"010",
+			"075",
+			"10SC",
+			"10RB",
+			"010",
+			"075",
+			"10RB",
+			"Current",
+			".$",
+			", ",
+			"},",
+			"075",
+			"010",
+			", ",
+			"\",",
+			"},",
+			"}, ",
+			",",
+			", ",
+			"076",
+			"025",
+			"10SC",
+			", ",
+			"FinalColumnOrder",
+			"010",
+			"075",
+			"076",
+			"075",
+			"CustomerType",
+			"075",
+			", ",
+			"075",
+			"SKU",
+			"075",
+			"077",
+			"076",
+			"AddDiscount",
+			"AddDiscount?",
+			"AddDiscount",
+			"075",
+			"DiscountAmount",
+			"StayInBin",
+			"Added StayInBin",
+			"075",
+			"WCTPL.PL.ID",
+			"PLPG.Type.[075].ID",
+			"\"Expanded PLPG.Discount.[077]\"",
+			"\"Expanded PLPG.Discount.[076]\"",
+			"\"Expanded PLPG.Discount.[075]\"",
+			"\"Expanded PLPG.VSM.PL.[077]\"",
+			"075",
+			"076",
+			"075",
+			"Expanded PLPG.VSM.WCTPL.PL",
+			"Merged PLPG.VSM.WCTPL",
+			"Added PLPG.VSM.WCTPL.ID",
+			"PLPriceGroup"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Add ",
+			"dd ",
+			"077",
+			"030",
+			"076",
+			"025",
+			"030",
+			"025",
+			"076",
+			"077",
+			"076",
+			"010",
+			"077",
+			"076",
+			"077",
+			"076",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "weetbix-rename-column.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"price",
+				"Projects\\Master Price\\Price.m"
+			],
+			[
+				"vagrantfile",
+				".otto\\compiled\\app\\dev\\Vagrantfile"
+			],
+			[
+				"db",
+				"config\\database.yml"
+			],
+			[
+				"appfile",
+				".otto\\appfile\\Appfile.compiled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
