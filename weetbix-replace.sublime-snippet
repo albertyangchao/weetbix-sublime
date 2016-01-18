@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+Replace_nulls_with_$1" = Table.ReplaceValue(${2:#"Source Query Name"},
+  null,$1,Replacer.ReplaceValue,
+    {
+      "${3:first_column_name}"
+    }
+),
+]]></content>
+	<tabTrigger>weetbix</tabTrigger>
+	<description>Weetbix Replace Null with $1</description>
+	<!-- <scope>source.m</scope> -->
+</snippet>
+
+  			

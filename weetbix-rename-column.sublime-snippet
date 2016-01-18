@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+rename_columns_$1 = Table.RenameColumns(${2:#"Source Query Name"},
+  {
+    {${3:#"old_name"}, ${4:#"new_name"}}
+  }
+),
+]]></content>
+	<tabTrigger>weetbix</tabTrigger>
+	<description>Weetbix rename column</description>
+	<!-- <scope>source.m</scope> -->
+</snippet>
