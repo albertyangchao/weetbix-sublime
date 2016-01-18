@@ -1,13 +1,10 @@
 <snippet>
 	<content><![CDATA[
-Replace_nulls_with_$1" = Table.ReplaceValue(${2:#"Source Query Name"},
-  null,$1,Replacer.ReplaceValue,
-    {
-      "${3:first_column_name}"
-    }
+filter_$1" = Table.SelectRows(${2:#"Source Query Name"},
+  each (${3:first_column} = "${4:value}")
 ),
 ]]></content>
 	<tabTrigger>weetbix</tabTrigger>
-	<description>Weetbix Replace Null with $1</description>
+	<description>Filter Column by Value</description>
 	<!-- <scope>source.m</scope> -->
 </snippet>

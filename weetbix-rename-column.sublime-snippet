@@ -7,6 +7,6 @@ rename_columns_$1 = Table.RenameColumns(${2:#"Source Query Name"},
 ),
 ]]></content>
 	<tabTrigger>weetbix</tabTrigger>
-	<description>Weetbix rename column</description>
+	<description>Rename column</description>
 	<!-- <scope>source.m</scope> -->
 </snippet>
