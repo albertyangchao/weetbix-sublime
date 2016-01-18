@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+filter_$1 = Table.SelectRows(${2:#"Source Query Name"},
+  each ([${3:first_column}] ${4:operator} "${5:value}")
+)
+]]></content>
+	<tabTrigger>weetbix</tabTrigger>
+	<description>Table.SelectRows</description>
+	<!-- <scope>source.m</scope> -->
+</snippet>

@@ -8,6 +8,6 @@ replace_null_with_$1" = Table.ReplaceValue(${2:#"Source Query Name"},
 ),
 ]]></content>
 	<tabTrigger>weetbix</tabTrigger>
-	<description>Replace Null with $1</description>
+	<description>Table.ReplaceNull</description>
 	<!-- <scope>source.m</scope> -->
 </snippet>

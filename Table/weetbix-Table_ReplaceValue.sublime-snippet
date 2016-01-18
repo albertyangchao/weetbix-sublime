@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+replace_$1 = Table.ReplaceValue(${2:#"Source Query Name"},
+  $3,$4,Replacer.ReplaceText,
+    {
+      "${5:first_column_name}"
+    }
+),
+]]></content>
+	<tabTrigger>weetbix</tabTrigger>
+	<description>Table.ReplaceValue</description>
+	<!-- <scope>source.m</scope> -->
+</snippet>

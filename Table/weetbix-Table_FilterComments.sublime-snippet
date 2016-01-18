@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+filter_comments = Table.SelectRows(${1:#"Source Query Name"},
+  each not Text.StartsWith([${2:first_column}], "#")
+)
+]]></content>
+  <tabTrigger>weetbix</tabTrigger>
+  <description>Table.FilterComments</description>
+  <!-- <scope>source.m</scope> -->
+</snippet>
