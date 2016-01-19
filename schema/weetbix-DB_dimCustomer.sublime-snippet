@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+dimCustomer
+]]></content>
+  <tabTrigger>weetbix</tabTrigger>
+  <description>db.dimCustomer</description>
+  <!-- <scope>source.m</scope> -->
+</snippet>

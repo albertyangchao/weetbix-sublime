@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+merge_$1 = Table.NestedJoin(
+  ${2:table1},{"${3:key}"},
+  ${4:Table2},{"${5:key}"},
+  ${4:newColumnName},
+  JoinKind.${7:LeftOuter}
+)
+]]></content>
+  <tabTrigger>weetbix</tabTrigger>
+  <description>Table.Group</description>
+  <!-- <scope>source.m</scope> -->
+</snippet>
+
+<!-- Table.Group(                                       -->
+<!--   table as table, key as any,                      -->
+<!--   aggregatedColumns as list,                       -->
+<!--   optional groupKind as nullable number,           -->
+<!--   optional comparer as nullable function) as table -->

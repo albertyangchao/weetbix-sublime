@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+FactSales
+]]></content>
+  <tabTrigger>weetbix</tabTrigger>
+  <description>db.FactSales</description>
+  <!-- <scope>source.m</scope> -->
+</snippet>

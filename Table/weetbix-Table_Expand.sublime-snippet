@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+expand_$1 = Table.ExpandTableColumn(
+  ${2:table1},
+  "${3:expand_column}",
+  {${4:new_column1}},
+  {${5:new_column2}}
+)
+]]></content>
+  <tabTrigger>weetbix</tabTrigger>
+  <description>Table.Expand</description>
+  <!-- <scope>source.m</scope> -->
+</snippet>
+
+<!-- #"Expanded Warehouse.PL" = Table.ExpandTableColumn(  -->
+<!--   #"Merged Queries2",                                -->
+<!--   "Warehouse.PL", {"Name"}, {"Warehouse.PL.Name"}    -->
+<!--   ),                                                 -->
