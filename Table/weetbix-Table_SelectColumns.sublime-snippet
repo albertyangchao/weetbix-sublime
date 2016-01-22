@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+select_$1_columns = Table.SelectColumns(
+  ${2:#"Source Query Name"},
+    {
+      "${3:#"first_column"}",
+      "${4:#"second_column"}"
+    }
+)
+]]></content>
+	<tabTrigger>weetbix</tabTrigger>
+	<description>Table.SelectColumns</description>
+	<!-- <scope>source.m</scope> -->
+</snippet>
+
+<!-- Table.SelectColumns(table as table, columns as any, optional missingField as any) as table   -->
