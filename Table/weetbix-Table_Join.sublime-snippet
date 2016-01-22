@@ -3,7 +3,7 @@
 merge_$1 = Table.NestedJoin(
   ${2:table1},{"${3:key}"},
   ${4:Table2},{"${5:key}"},
-  ${4:newColumnName},
+  "${4:newColumnName}",
   JoinKind.${7:LeftOuter}
 )
 ]]></content>
